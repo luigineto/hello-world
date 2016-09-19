@@ -1,12 +1,12 @@
-# _{Hello World}_
+# _Hello World_
 
-#### _{HTML exercise for Epicodus}, {09.19.2016}_
+#### _HTML exercise for Epicodus, 09.19.2016_
 
-#### By _**{Luigi Gallinella}**_
+#### By _**Luigi Gallinella**_
 
 ## Description
 
-_{This is a simple page that collects hellos in many different languages.}_
+_This is a simple page that collects hellos in many different languages._
 
 ## Setup/Installation Requirements
 
@@ -15,10 +15,10 @@ _{This is a simple page that collects hellos in many different languages.}_
 
 ## Technologies Used
 
-_{HTML}_
+_HTML_
 
 ### License
 
-*{This software is licenced under the MIT license.}*
+*This software is licenced under the MIT license.*
 
-Copyright (c) 2016 **_{Luigi Gallinella}_**
+Copyright (c) 2016 **_Luigi Gallinella_**
