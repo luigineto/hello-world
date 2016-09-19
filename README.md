@@ -11,7 +11,7 @@ _This is a simple page that collects hellos in many different languages._
 ## Setup/Installation Requirements
 
 * Clone this repository.
-* Open the hello-world.html file in your browser
+* Open the hello-world.html file in your browser.
 
 ## Technologies Used
 
